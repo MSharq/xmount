@@ -26,3 +26,4 @@ if(LIBZ_FOUND)
   add_subdirectory(libxmount_input_aaff)
 endif(LIBZ_FOUND)
 
+add_subdirectory(libxmount_input_nbd)
