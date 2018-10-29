@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -fno-strict-aliasing -std=c99 -Wall -O2 -fno-strict-aliasing -std=c99 -Wall  -shared -Wl,-soname,libxmount_input_nbd.so -o libxmount_input_nbd.so CMakeFiles/xmount_input_nbd.dir/libxmount_input_nbd.c.o CMakeFiles/xmount_input_nbd.dir/__/__/libxmount/libxmount.c.o 
